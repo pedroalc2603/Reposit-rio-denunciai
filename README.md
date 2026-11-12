@@ -39,4 +39,4 @@ O aplicativo é destinado a cidadãos com 25 a 44 anos que desejam comunicar irr
 Impacto Social
 
 O projeto busca incentivar a cidadania ativa, facilitar a comunicação entre população e instituições responsáveis e contribuir para a construção de uma sociedade mais participativa, transparente e segura.
-Desenvolvido com o propósito de dar voz à população e transformar denúncias em ações. 📢
+Desenvolvido com o propósito de dar voz à população e transformar denúncias em ações. 
